@@ -255,7 +255,7 @@
         <unified>判叛頖</unified>
       </entry>
       <entry id="39" kind="unifiable">
-        <glyphs>u536f-03,cdp-8c69</glyphs>
+        <glyphs>u536f-03,cdp-8c69,mpsuzuki2_u20a0d-jv-var-003</glyphs>
         <components>卯</components>
         <jis>23</jis>
         <unified>鎦鶹𢞭</unified>
@@ -1119,7 +1119,9 @@
         <compatibles>龜</compatibles>
       </entry>
       <entry id="161" kind="unifiable">
-        <glyphs>u20041,u20041-var-001,koseki-001020,u20041-var-002,u20041-ue0101</glyphs>
+        <glyphs>u20041,u20041-var-001,koseki-001020,u20041-var-002,u20041-ue0101,
+                u2ff1-u2ff0-u5915-u53e3-u4e9e,u20a23-var-001
+        </glyphs>
         <components>𠁁</components>
         <jis>193</jis>
         <SourceCodeSeparation>鬬鬭</SourceCodeSeparation>
@@ -1195,7 +1197,7 @@
         <compatibles>掩淹裺𦋙</compatibles>
       </entry>
       <entry id="173" kind="unifiable">
-        <glyphs>koseki-336780,aj1-06295,u3b30</glyphs>
+        <glyphs>koseki-336780,aj1-06295,u3b30,cdp-89e7-var-004</glyphs>
         <components>臾㬰</components>
         <disunified>斔螤,臾㬰,𥑷𥔢,𧊠𧍳,𪀙𪃪</disunified>
         <compatibles>瘐𡓤𣢧</compatibles>
@@ -1646,8 +1648,8 @@
         <unified>亇</unified>
       </entry>
       <entry id="232" kind="unifiable">
-        <glyphs>u5c13,u5c14</glyphs>
-        <components>尓尔</components>
+        <glyphs>u5c13,u5c14,u5c12</glyphs>
+        <components>尓尔尒</components>
         <annexs>S.3</annexs>
         <jis>31</jis>
         <disunified>𣍨𦙳,𧦽𧧂,𤱏𬏂</disunified>
@@ -1899,9 +1901,9 @@
         <SourceCodeSeparation>寜寧</SourceCodeSeparation>
       </entry>
       <entry id="268" kind="unifiable">
-        <glyphs>u8203,u8204,u8204-var-001</glyphs>
-        <components>舃舄</components>
-        <disunified>潟澙,獡𤡯</disunified>
+        <glyphs>mpsuzuki2_cdp-8c40-04-var-002,cdp-8c40-04,mpsuzuki2_cdp-8c40-04-var-001</glyphs>
+        <components>⿺⿹㇉灬一⿹勹灬⿹㇉灬<components>
+        <disunified>潟澙,獡𤡯,廌𢊁,𡦱𡦵,𡦲𡦳</disunified>
         <SourceCodeSeparation>舃舄</SourceCodeSeparation>
         <unified>獡𣚔</unified>
         <compatibles>舄</compatibles>
@@ -1909,7 +1911,6 @@
       <entry id="269" kind="unifiable">
         <glyphs>u5ecc,u22281</glyphs>
         <components>𢊁廌</components>
-        <disunified>廌𢊁,𡦱𡦵,𡦲𡦳</disunified>
       </entry>
       <entry id="270" kind="unifiable">
         <glyphs>u5ddb,u21fe7</glyphs>
@@ -2954,6 +2955,60 @@
         <components>奇竒</components>
         <ReviewSystem>https://hc.jsecs.org/irg/ws2017/app/index.php?id=04182</ReviewSystem>
       </entry>
+
+      <!-- new UCVs from IRGN2386 -->
+
+      <entry id="425" kind="unfiable">
+        <glyphs>u6216,u22999</glyphs>
+        <components>或𢦙</components>
+        <ReviewSystem>
+          https://hc.jsecs.org/irg/ws2015/app/index.php?id=01989
+          https://hc.jsecs.org/irg/ws2015/app/index.php?id=02321
+        </ReviewSystem>
+      </entry>
+
+      <entry id="426" kind="unfiable">
+        <glyphs>cdp-8caf-09,mpsuzuki2_u2ff1-u2008a-u34c1-var-001</glyphs>
+        <components>⿱𠂊⿵冂人⿱刀㓁</components>
+        <ReviewSystem>https://hc.jsecs.org/irg/ws2015/app/index.php?id=02513</ReviewSystem>
+      </entry>
+
+      <entry id="427" kind="unfiable">
+        <glyphs>u2ff1-u6b62-u91d1-01,mpsuzuki2_u2ff1-u6b62-u7f36-01</glyphs>
+        <components>⿱止金⿱止缶</components>
+        <ReviewSystem>https://hc.jsecs.org/irg/ws2015/app/index.php?id=01529</ReviewSystem>
+      </entry>
+
+      <entry id="428" kind="unifiable">
+        <glyphs>u5375,u21589</glyphs>
+        <components>卵𡖉</components>
+        <ReviewSystem>https://hc.jsecs.org/irg/ws2015/app/index.php?id=01869</ReviewSystem>
+      </entry>
+
+      <entry id="429" kind="unifiable">
+        <glyphs>u23d0e,irg2015-01952</glyphs>
+        <components>𣴎⿱𢆉水</components>
+        <ReviewSystem>https://hc.jsecs.org/irg/ws2015/app/index.php?id=01952</ReviewSystem>
+      </entry>
+
+      <entry id="430" kind="unifiable">
+        <glyphs>u5e7e,u386c</glyphs>
+        <components>幾㡬</components>
+        <ReviewSystem>https://hc.jsecs.org/irg/ws2015/app/index.php?id=02491</ReviewSystem>
+      </entry>
+
+      <entry id="431" kind="unifiable">
+        <glyphs>u4e45,u4e46</glyphs>
+        <components>久乆</components>
+        <ReviewSystem>https://hc.jsecs.org/irg/ws2015/app/index.php?id=02595</ReviewSystem>
+      </entry>
+
+      <entry id="432" kind="unifiable">
+        <glyphs>u56de,u56d9</glyphs>
+        <components>回囙</components>
+        <ReviewSystem>https://hc.jsecs.org/irg/ws2015/app/index.php?id=02179</ReviewSystem>
+      </entry>
+
     </subgroup>
   </group>
 </ucv>
