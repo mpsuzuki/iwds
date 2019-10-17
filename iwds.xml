@@ -1119,9 +1119,7 @@
         <compatibles>龜</compatibles>
       </entry>
       <entry id="161" kind="unifiable">
-        <glyphs>u20041,u20041-var-001,koseki-001020,u20041-var-002,u20041-ue0101,
-                u2ff1-u2ff0-u5915-u53e3-u4e9e,u20a23-var-001
-        </glyphs>
+        <glyphs>u20041,u20041-var-001,koseki-001020,u20041-var-002,u20041-ue0101,u2ff1-u2ff0-u5915-u53e3-u4e9e,u20a23-var-001</glyphs>
         <components>𠁁</components>
         <jis>193</jis>
         <SourceCodeSeparation>鬬鬭</SourceCodeSeparation>
@@ -1902,7 +1900,7 @@
       </entry>
       <entry id="268" kind="unifiable">
         <glyphs>mpsuzuki2_cdp-8c40-04-var-002,cdp-8c40-04,mpsuzuki2_cdp-8c40-04-var-001</glyphs>
-        <components>⿺⿹㇉灬一⿹勹灬⿹㇉灬<components>
+        <components>⿺⿹㇉灬一⿹勹灬⿹㇉灬</components>
         <disunified>潟澙,獡𤡯,廌𢊁,𡦱𡦵,𡦲𡦳</disunified>
         <SourceCodeSeparation>舃舄</SourceCodeSeparation>
         <unified>獡𣚔</unified>
@@ -2961,10 +2959,7 @@
       <entry id="425" kind="unfiable">
         <glyphs>u6216,u22999</glyphs>
         <components>或𢦙</components>
-        <ReviewSystem>
-          https://hc.jsecs.org/irg/ws2015/app/index.php?id=01989
-          https://hc.jsecs.org/irg/ws2015/app/index.php?id=02321
-        </ReviewSystem>
+        <ReviewSystem>https://hc.jsecs.org/irg/ws2015/app/index.php?id=01989</ReviewSystem>
       </entry>
 
       <entry id="426" kind="unfiable">
