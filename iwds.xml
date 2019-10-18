@@ -2840,13 +2840,18 @@
         <single char="艸">About 50</single>
         <single char="艹">More than 3000</single>
       </entry>
-      <entry id="405" kind="not-unifiable">
+      <entry id="405" kind="unifiable">
         <glyphs>u6535,u6534</glyphs>
         <components>攵攴</components>
         <disunified>攴攵,攺𢻰,敀𤽐,敂𢼒,敆㪉,敋𢼛,敌𢼤,敍敘,敠敪,敤㪙,敥𢽻,敧𢽽,敨㪗,敩𢽾,敭𢾙,敯𢾞,敱敳,敲㪣,數𢿘,敺𢿛,敽敿,敾㪨,斀𣀈,斁𣀇,斅斆,枚𣏽,炇𤆝,牧𤘴,玫㺳,絛𠍞,致𦤺,變𣀵,贁𣀕,軙𨊴,㢭𢎿,㪃𢼔,㪆𢼕,㪊𢽏,㪋𢽎,㪐𢽲,㪑𢽱,㪛𢾤,㪧𢿴,㳊𣲏,䍩𢼝,䵇𪎘,𡵨𡵲,𢪊𢪛,𢻫𢻱,𢻼𢼈,𢼂𤕝,𢼗𥘦,𢼦𢼭,𢼨𢼮,𢼩𢼶,𢼫𢼬,𢼯𢼴,𢼹𢽊,𢼼𢽐,𢼾𢽋,𢽚𢽴,𢽜𢽷,𢽢𢽵,𢽣𢽶,𢽪𢽰,𢽫𢾣,𢾁𢾝,𢾅𢾖,𢾊𢾛,𢾋𢾡,𢾍𢾕,𢾎𢾜,𢾑𢾚,𢾲𢾼,𢾺𢾻,𢿍𣁛,𢿏𢿖,𢿕𢿜,𢿢𢿳,𢿣𢿲,𢿦𢿽,𢿧𢿵,𢿨𢿱,𢿾𣀉,𣀃𣀊,𣀓𣀘,𣀛𣀠,𣀜𣀡,𣀤𣀩,𣀧𩀼,𣀶𣀹,𣀸𣀺,𣀻𣀼,𥃊𥃎,𨈙𨈡,𩉩𩉲,𪌏𪌑,𪔻𪔿,坆𪢺,𡛇𪥩,𤯛𪯉</disunified>
         <unified>㪁㪈㪌㪎㪜㪢㪬𣀣</unified>
         <single char="攵">𢼥𢽤𣀿敢𢽒𢽺𢽌𢽘𧒥𧸞𤉺𤊮𢽓𢽗…(About 400)</single>
         <single char="攴">𢼿𢿩𢿚𢾬𣀰𢽅𢾈𢾠𢿺𣀄𧥚𣁀𧥙𢾴…(About 200)</single>
+        <ReviewSystem>https://hc.jsecs.org/irg/ws2017/app/index.php?id=01519</ReviewSystem>
+        <ReviewSystem>https://hc.jsecs.org/irg/ws2017/app/index.php?id=01539</ReviewSystem>
+        <ReviewSystem>https://hc.jsecs.org/irg/ws2017/app/index.php?id=02505</ReviewSystem>
+        <ReviewSystem>https://hc.jsecs.org/irg/ws2017/app/index.php?id=02721</ReviewSystem>
+        <ReviewSystem>https://hc.jsecs.org/irg/ws2017/app/index.php?id=07071</ReviewSystem>
       </entry>
       <entry id="406" kind="not-unifiable">
         <glyphs>aj1-01615,aj1-07472</glyphs>
